@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-sweeft/static/css/main.739e77e6.chunk.css",
+    "main.js": "/project-sweeft/static/js/main.57af531e.chunk.js",
+    "main.js.map": "/project-sweeft/static/js/main.57af531e.chunk.js.map",
+    "runtime-main.js": "/project-sweeft/static/js/runtime-main.b7f2c87b.js",
+    "runtime-main.js.map": "/project-sweeft/static/js/runtime-main.b7f2c87b.js.map",
+    "static/js/2.af195db8.chunk.js": "/project-sweeft/static/js/2.af195db8.chunk.js",
+    "static/js/2.af195db8.chunk.js.map": "/project-sweeft/static/js/2.af195db8.chunk.js.map",
+    "static/js/3.80ffe7f2.chunk.js": "/project-sweeft/static/js/3.80ffe7f2.chunk.js",
+    "static/js/3.80ffe7f2.chunk.js.map": "/project-sweeft/static/js/3.80ffe7f2.chunk.js.map",
+    "index.html": "/project-sweeft/index.html",
+    "static/css/main.739e77e6.chunk.css.map": "/project-sweeft/static/css/main.739e77e6.chunk.css.map",
+    "static/js/2.af195db8.chunk.js.LICENSE.txt": "/project-sweeft/static/js/2.af195db8.chunk.js.LICENSE.txt",
+    "static/media/Spinner.f53aa23f.gif": "/project-sweeft/static/media/Spinner.f53aa23f.gif",
+    "static/media/backTop.e0402307.png": "/project-sweeft/static/media/backTop.e0402307.png",
+    "static/media/homePage.28346a67.png": "/project-sweeft/static/media/homePage.28346a67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f2c87b.js",
+    "static/js/2.af195db8.chunk.js",
+    "static/css/main.739e77e6.chunk.css",
+    "static/js/main.57af531e.chunk.js"
+  ]
+}
